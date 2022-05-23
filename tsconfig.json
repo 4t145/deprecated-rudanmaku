@@ -1,0 +1,6 @@
+{
+  "extends": "@tsconfig/svelte/tsconfig.json",
+
+  "include": ["src/**/*", "public/plugins/默认播音员插件.js"],
+  "exclude": ["node_modules/*", "__sapper__/*", "public/*"]
+}
