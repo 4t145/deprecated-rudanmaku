@@ -1,3 +1,8 @@
+# 已废弃 DEPRECATED
+请移步
+https://github.com/4t145/rudanmakuki
+
+
 # Rudanmaku
 Rudanmaku(ルダンマク), 基于tauri的弹幕机
 目标：
